@@ -7,6 +7,7 @@ st.write("Hello, Streamlit!😎")
 random_matrix = np.random.randn(10, 20)
 st.write(random_matrix)
 
+# Magic commands
 k="Hihi"
 k
 bb=123
