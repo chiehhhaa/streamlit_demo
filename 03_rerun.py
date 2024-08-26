@@ -80,4 +80,3 @@ def show_monthly_sales(data):
 data = get_data()
 show_daily_sales(data)
 show_monthly_sales(data)
-
